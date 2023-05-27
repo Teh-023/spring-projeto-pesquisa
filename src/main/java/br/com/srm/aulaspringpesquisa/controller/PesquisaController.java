@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import br.com.gva.aulaspringpesquisa.model.dto.PesquisaInserirDto;
-import br.com.gva.aulaspringpesquisa.service.PesquisaService;
+import br.com.srm.aulaspringpesquisa.model.dto.PesquisaInserirDto;
+import br.com.srm.aulaspringpesquisa.service.PesquisaService;
 import jakarta.validation.Valid;
 import jakarta.websocket.server.PathParam;
 import lombok.Getter;
